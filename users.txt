@@ -1,0 +1,55 @@
+username :Farah
+address :1_FCAI_street
+phone number :01002774482
+current balance :4333.880000
+ID :u1
+username :Rahma
+address :2_FCAI_street
+phone number :01174826593
+current balance :1000.010000
+ID :u2
+username :ziad
+address :dddd
+phone number :aaaa
+current balance :1234.000000
+ID :u3
+username :hey hey
+address :jefeoh eflhnel e 
+phone number :3784502525
+current balance :4444.000000
+ID :u4
+username :Ziad
+address :3_FCAI_street
+phone number :01144665704
+current balance :17557.210000
+ID :su1
+username :Gamal
+address :4_FCAI_street
+phone number :01275036503
+current balance :111111.000000
+ID :su2
+username :yasser
+address :5_FCAI_street
+phone number :01595034730
+current balance :3333.000000
+ID :su3
+username :fares
+address :6_FCAI_street
+phone number :01003859263
+current balance :99999.000000
+ID :su4
+username :gaber
+address :eqwqqr
+phone number :982627622
+current balance :333333.000000
+ID :su5
+username :ef eete
+address :afse wtewew
+phone number :2356235
+current balance :333333.000000
+ID :su6
+username :gegeg gegeg
+address :ititi jtjjtj
+phone number :047694795
+current balance :55555.000000
+ID :su7
